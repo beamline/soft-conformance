@@ -2,7 +2,6 @@ package beamline.miners.softconformance.tester;
 
 import java.io.File;
 
-import org.apache.flink.api.common.state.ValueStateDescriptor;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.functions.sink.SinkFunction;
 
